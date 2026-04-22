@@ -128,7 +128,6 @@ When `build-scan-push` goes green, your image is live on Docker Hub at
         ├── index.js             # complete — do not edit
         └── db.js                # complete — do not edit
 ```
-
 ## Peer Review — Pull and Run a Classmate's Image
 
 Use these commands to pull a classmate's published image from Docker Hub and verify it works end-to-end.
